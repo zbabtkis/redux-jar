@@ -1,0 +1,9 @@
+{
+  "name": "redux-jar",
+  "version": "0.0.1",
+  "description": "A Redux JSON API Library",
+  "main": "index.js",
+  "repository": "git@github.com:zigzackattack/redux-jar.git",
+  "author": "Zack Babtkis <zackbabtkis@gmail.com>",
+  "license": "MIT"
+}
